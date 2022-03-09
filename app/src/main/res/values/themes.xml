@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Attendanceapp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
+<!--        <item name="colorPrimary">@color/purple_500</item>-->
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
@@ -12,5 +12,8 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <color name="colorPrimary">#2EA094</color>
+        <color name="colorPrimaryDark">#007166</color>
+        <color name="colorAccent">#03DAC5</color>
     </style>
 </resources>
