@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Attendanceapp">
         <activity
+            android:name=".views.forgotpass.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
             android:name=".views.login.LoginActivity"
             android:exported="false" />
         <activity

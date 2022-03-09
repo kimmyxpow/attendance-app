@@ -71,7 +71,17 @@
 
         </com.google.android.material.textfield.TextInputLayout>
 
-        <android.widget.Button
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity="end"
+            android:layout_marginTop="20dp"
+            android:text="@string/forgot_password"/>
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
