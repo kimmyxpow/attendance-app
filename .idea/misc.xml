@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nadira/AndroidStudioProjects/attendanceapp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.1535" />
+        <entry key="..\:/Users/Nadira/AndroidStudioProjects/attendanceapp/app/src/main/res/drawable/bg_edit_text.xml" value="0.1535" />
+        <entry key="..\:/Users/Nadira/AndroidStudioProjects/attendanceapp/app/src/main/res/layout/activity_login.xml" value="0.16" />
         <entry key="..\:/Users/Nadira/AndroidStudioProjects/attendanceapp/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/Nadira/AndroidStudioProjects/attendanceapp/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
       </map>
