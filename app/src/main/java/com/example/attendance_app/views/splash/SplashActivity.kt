@@ -2,6 +2,7 @@ package com.example.attendance_app.views.splash
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.attendance_app.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
