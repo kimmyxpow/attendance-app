@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Attendance App</string>
+    <string name="hello_sign_in_your_account">Hello, Sign in Your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
 </resources>
